@@ -67,8 +67,8 @@ The raw files are not stored in this repository. See [`data/README.md`](data/REA
 Requires Python 3.10 or newer.
 
 ```bash
-git clone https://github.com/<your-username>/food-cost-vs-nutrition.git
-cd food-cost-vs-nutrition
+git clone https://github.com/pame570/Food-Cost-vs-Nutrition.git
+cd Food-Cost-vs-Nutrition
 pip install -r requirements.txt
 # Download the three data files into data/ (see data/README.md)
 jupyter lab Food_Cost_vs_Nutrition.ipynb
